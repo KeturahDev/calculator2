@@ -8,7 +8,7 @@ Welcome to calculator 2, where you can add, subtract, multiply , and divide two 
 
 ## Set Up Options
 
-1. Open gh-pages [here](https://keturahdev.github.io/calculator2/)
+1. Open it's gh-pages [here](https://keturahdev.github.io/calculator2/)
 2. Or, clone, and then in terminal cd into the project and type 'open index.html', or to look at the code type 'code .'.
 
 ## Technologies Used
